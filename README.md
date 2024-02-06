@@ -1,0 +1,1 @@
+# Ersatz, the mocking library
